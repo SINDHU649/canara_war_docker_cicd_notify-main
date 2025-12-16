@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   canara_app:
-    image: sakit333/canara_sak
+    image: sakit333/canara_sindhu
     container_name: canara_app_sak
     build:
       context: .
